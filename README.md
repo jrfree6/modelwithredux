@@ -125,5 +125,7 @@ Ajuste conforme sua API real em `src/app/services/user.service.ts`.
 - Imports quebrados: confirme caminhos relativos nos arquivos `src/app/**`.
 
 ## Licença
-GNU General Public License. 
-Ajuste conforme necessário.
+GNU(General Public License).
+
+
+Obs: Ajuste conforme necessário.

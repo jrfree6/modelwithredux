@@ -2,6 +2,20 @@
 
 Aplicação Angular (standalone) com gerenciamento de estado usando NgRx (Store, Effects, Devtools).
 
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jrfree6/modelwithredux">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jrfree6/modelwithredux">
+  
+  <a href="https://github.com/jrfree6/modelwithredux/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jrfree6/modelwithredux">
+  </a>
+
+  <a href="https://github.com/jrfree6/modelwithredux/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/jrfree6/modelwithredux">
+  </a>
+</p>
+
 ## Stack
 - Angular (standalone)
 - NgRx: Store, Effects, Store Devtools
